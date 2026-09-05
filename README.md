@@ -123,6 +123,9 @@ All written content, images, and certificates in this repository represent the p
 ## Contact
 
 Mahfuza Maisha
+
 Email: maisha.mahfuza13@gmail.com
+
 GitHub: [github.com/C221213-Maisha](https://github.com/C221213-Maisha)
+
 LinkedIn: [linkedin.com/in/mahfuza-maisha](https://linkedin.com/in/mahfuza-maisha)
